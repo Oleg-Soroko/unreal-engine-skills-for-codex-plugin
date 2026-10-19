@@ -30,6 +30,12 @@ flowchart LR
     M --> U[Unreal Editor]
 ```
 
+<p align="center">
+  <img src="docs/images/codex-plugin.png" alt="Unreal Engine Skills for Codex installed in Codex, with its icon, author, and Try now button">
+  <br>
+  <em>The plugin in Codex</em>
+</p>
+
 ## Features
 
 - **Codex plugin packaging** with an automatically selected `unreal-mcp` skill.
