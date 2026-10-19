@@ -1,6 +1,6 @@
 <img align="left" src="plugins/unreal-engine-skills-for-codex/assets/icon.png" alt="Unreal Engine Skills for Codex robot icon" width="160" height="160">
 
-<h1>unreal-engine-skills-for-codex-plugin</h1>
+<h3>Unreal Engine Skills for Codex Plugin</h3>
 
 <p>
   <strong>Epic's Unreal Engine workflows, adapted for Codex.</strong>
