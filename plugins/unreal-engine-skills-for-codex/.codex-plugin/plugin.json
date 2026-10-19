@@ -1,0 +1,32 @@
+{
+  "name": "unreal-engine-skills-for-codex",
+  "version": "1.0.0",
+  "description": "Unofficial Codex adaptation of Epic Games' Unreal Engine MCP skills.",
+  "author": {
+    "name": "Oleg Soroko",
+    "email": "oleg.soroko@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "unreal-engine",
+    "codex",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "hooks": "./hooks/hooks.json",
+  "interface": {
+    "displayName": "Unreal Engine Skills for Codex",
+    "shortDescription": "Epic's Unreal workflows, adapted for Codex",
+    "longDescription": "Unofficial community adaptation of Epic Games' Unreal Engine Skills for Claude Code. Includes Codex plugin packaging, native MCP tool discovery, project skills, recovery guidance and an optional Windows startup hook. Connects to Unreal Engine's existing MCP server.",
+    "developerName": "Oleg Soroko",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use $unreal-mcp to inspect the current Unreal project through its existing MCP connection."
+    ]
+  }
+}

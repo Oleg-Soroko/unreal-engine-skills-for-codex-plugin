@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell.exe -NoProfile -NonInteractive -Command \"& python (Join-Path $env:PLUGIN_ROOT 'hooks/unreal_context.py')\"",
+            "timeout": 5,
+            "statusMessage": "Loading Unreal project context"
+          }
+        ]
+      }
+    ]
+  }
+}

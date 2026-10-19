@@ -1,0 +1,6 @@
+interface:
+  display_name: "Unreal MCP"
+  short_description: "Operate Unreal through your existing MCP connection"
+  default_prompt: "Use $unreal-mcp to inspect the current Unreal project through its existing MCP connection."
+policy:
+  allow_implicit_invocation: true
