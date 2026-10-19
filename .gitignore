@@ -5,3 +5,4 @@ __pycache__/
 *.log
 .codex/config.toml
 work/
+design/icon-concepts/

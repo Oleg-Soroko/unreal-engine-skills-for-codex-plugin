@@ -1,7 +1,0 @@
-{
-  "tool": "image_gen",
-  "mode": "built-in edit",
-  "source": "robot-head-v1.png",
-  "output": "../../plugins/unreal-engine-skills-for-codex/assets/icon.png",
-  "prompt": "Edit the provided approved robot icon. The user loves this exact design. Change ONLY its canvas/framing to make a SQUARE 1:1 plugin icon, ideally exactly 1024 by 1024 pixels. This must be a square image, not landscape.\nPreserve the approved white robot head with softly rounded rectangular face, two circular black eyes, small symmetric side tabs, thin white circular ring and pure black background. Preserve the shapes, proportions, line weight, spacing of the head and eyes, and flat monochrome design. Do not redesign or introduce any details. No text, no mouth, no antenna, no body, no official letter U or other marks, no shading, no gradients, no texture.\nPlace the unchanged circular robot emblem optically centered on a perfectly square black canvas. The outer circle should occupy approximately 80 percent of the square's width and height, with equal black padding on all four sides, maintaining the complete unbroken circle. The circle must remain a true circle, not an ellipse. Crisp high resolution edges. One finished square icon, no mockup."
-}

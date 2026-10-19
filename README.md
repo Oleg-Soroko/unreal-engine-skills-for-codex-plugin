@@ -1,10 +1,24 @@
-# unreal-engine-skills-for-codex-plugin
+<p align="center">
+  <img src="plugins/unreal-engine-skills-for-codex/assets/icon.png" alt="Unreal Engine Skills for Codex robot icon" width="128" height="128">
+</p>
 
-**Epic's Unreal Engine workflows, adapted for Codex.**
+<h1 align="center">unreal-engine-skills-for-codex-plugin</h1>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![Status: Unofficial](https://img.shields.io/badge/Status-Unofficial-orange.svg)
-![Tested: Unreal 5.8.3](https://img.shields.io/badge/Tested-Unreal%205.8.3-313131.svg)
+<p align="center">
+  <strong>Epic's Unreal Engine workflows, adapted for Codex.</strong>
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+  <img src="https://img.shields.io/badge/Status-Unofficial-orange.svg" alt="Status: Unofficial">
+  <img src="https://img.shields.io/badge/Tested-Unreal%205.8.3-313131.svg" alt="Tested: Unreal 5.8.3">
+</p>
+
+<p align="center">
+  <a href="#getting-started">Getting started</a> &middot;
+  <a href="#usage-and-controls">Usage</a> &middot;
+  <a href="https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin">Official Epic plugin for Claude Code</a>
+</p>
 
 An **unofficial Codex adaptation** of [Epic Games' Unreal Engine Skills for Claude Code](https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin). It brings Epic's MCP workflow guidance to Codex: discover the right tools, read project skills, operate the editor, and handle connection recovery.
 
